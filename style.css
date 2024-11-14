@@ -21,6 +21,10 @@
     font-family: 'Be-Vietnam-Pro', sans-serif;
 }
 
+body{
+    padding: 0 40px 40px;
+}
+
 header {
     padding: 40px 0;
     text-align: center;
